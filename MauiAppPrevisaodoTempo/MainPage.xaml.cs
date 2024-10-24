@@ -8,7 +8,6 @@ using System.Linq;
 using System;
 using System.Threading.Tasks;
 
-
 namespace MauiAppPrevisaodoTempo
 {
     public partial class MainPage : ContentPage
